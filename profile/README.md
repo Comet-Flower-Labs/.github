@@ -16,7 +16,7 @@ Comet Flower Audio Labs is an independent audio research and engineering collect
 #### 🌉 [Mycelium USB Audio Bridge](https://github.com/Comet-Flower-Labs/mycelium-usb-audio)
 * **Target Hardware:** Zoom G1 Four / Zoom G1X Four
 * **Latest Release:** [v1.0.0-beta](https://github.com/Comet-Flower-Labs/mycelium-usb-audio/releases)
-* **Overview:** Unlocks real-time **44.1 kHz 16-bit stereo PCM USB audio streaming** directly from the pedal's digital output, turning budget multi-effects hardware into a zero-latency USB recording interface. Includes custom on-pedal settings menus and non-destructive firmware patching.
+* **Overview:** Unlocks real-time **44.1 kHz 16-bit stereo PCM USB audio streaming** directly from the pedal's digital output, turning budget multi-effects hardware into USB recording interface. Includes custom on-pedal settings menus and non-destructive firmware patching.
 
 #### 🎛️ Comet Flower High-Performance DSP Suite *(In Active Development)*
 * **Overview:** Studio-grade, circuit-exact DSP models hand-scheduled and software-pipelined for Texas Instruments C6000 VLIW DSPs:
