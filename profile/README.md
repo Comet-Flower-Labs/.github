@@ -1,6 +1,6 @@
 # Welcome to Comet Flower Audio Labs 🌸⚡
 
-**Boutique Audio DSP • Circuit-Exact Modeling • Embedded Firmware Innovations**
+**Boutique Audio DSP• Embedded Firmware Innovations**
 
 🌐 **Official Site:** [cometflower.com](https://cometflower.com)
 
